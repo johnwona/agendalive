@@ -9,6 +9,7 @@ import org.mockito.junit.jupiter.MockitoExtension;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 
+import com.spring.agendalive.document.LiveDocument;
 import com.spring.agendalive.repository.LiveRepository;
 import com.spring.agendalive.service.LiveService;
 
