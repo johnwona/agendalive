@@ -1,7 +1,7 @@
 # agendalive
 
 Build
-Run ng build to build the project. The build artifacts will be stored in the dist/ directory. Use the mvn spring-boot:run for a production build.
+The build artifacts will be stored in the dist/ directory. Use the mvn spring-boot:run for a production build.
 
 Running unit tests
 Run ng test to execute the unit tests via JUnit.
